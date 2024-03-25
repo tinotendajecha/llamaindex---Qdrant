@@ -9,4 +9,3 @@ llama-index-postprocessor-flag-embedding-reranker
 streamlit
 python-dotenv
 git+https://github.com/FlagOpen/FlagEmbedding.git
-dotenv
