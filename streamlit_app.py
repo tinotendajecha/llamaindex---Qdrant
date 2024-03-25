@@ -74,12 +74,12 @@ def main():
         st.markdown(':green[Response:]')
         st.write(response.response)
 
-        sources = response.source_nodes
+        # sources = response.source_nodes
 
-        for source in sources:
-            st.write(source.text)
-            st.divider()
-            time.sleep(1)
+        # for source in sources:
+        #     st.write(source.text)
+        #     st.divider()
+        #     time.sleep(1)
 
     
 
