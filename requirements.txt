@@ -1,0 +1,12 @@
+llama-index 
+llama-parse 
+asyncio 
+qdrant-client 
+llama-index-vector-stores-qdrant 
+pypdf2 
+llama-index-core
+llama-index-postprocessor-flag-embedding-reranker
+streamlit
+python-dotenv
+git+https://github.com/FlagOpen/FlagEmbedding.git
+dotenv
